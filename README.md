@@ -1,4 +1,4 @@
-# ARCADIA
+# D&S ARCADIA
 ## Simple Teensy based Arcade MIDI Controller
 
 
