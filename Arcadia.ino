@@ -2,6 +2,7 @@
 
 const int channel = 1; // mettre un switch pour selectionner les canaux plutot que coder en dur 
 
+//TODO
 // implementer les LEDs
 // Pin 1,2,8 pour le 78HC595
 // 1=CLK 2=DATA 8=LATCH |
